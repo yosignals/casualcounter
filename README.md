@@ -1,4 +1,4 @@
-# casualcounter
+# CasualCounter
 **Collecting Collectors**
 ---
 
